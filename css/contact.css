@@ -1,0 +1,72 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+}
+
+.container {
+
+    display: flex;
+    flex-direction: column;
+    background: black;    
+    align-items: center;
+    background-image: url(../images/background.jpg);
+    background-size: cover;      
+}
+
+
+.box {
+
+    border: 3px solid lightgray;
+    padding: 5px;
+    margin: 2px;
+    text-align: left;
+    background-color: lightgray;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 1px rgba(0, 0, 0, 0.3);    
+    width: 400px;
+    position: relative;
+    top: 50%;
+    left: 25%;
+
+}
+
+label {
+
+    display: block;
+    width: 100%;    
+}
+
+input, textarea {
+
+    width: 100%;
+}
+
+
+
+a {   
+    text-align: center;   
+    text-decoration: none;
+    background-color: saddlebrown;    
+}
+
+p {
+
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;    
+}
+
+h1 {
+
+    position: relative;
+    top: 50%;
+    left: 25%;
+
+}
+
+
+    
