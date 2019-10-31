@@ -6,18 +6,18 @@ body {
     background-size: cover;
 }
 
-.container {
+.saltbae {
 
     display: flex;
     flex-direction: column;
-    background: black;    
+    background: black;
     align-items: center;
     background-image: url(../images/background.jpg);
     background-size: cover;
 }
 
 
-.box {
+.contact {
 
     border: 3px solid lightgray;
     padding: 5px;
@@ -29,27 +29,8 @@ body {
     width: 400px;
     position: relative;
     top: 50%;
-    left: 25%;
+    left: 10%;
 
-}
-
-label {
-
-    display: block;
-    width: 100%;
-}
-
-input, textarea {
-
-    width: 100%;
-}
-
-
-
-a {   
-    text-align: center;   
-    text-decoration: none;
-    background-color: saddlebrown;    
 }
 
 p {
@@ -57,16 +38,13 @@ p {
     text-align: center;
     text-decoration: none;
     color: black;
-    font-size: 18px;    
+    font-size: 18px;
 }
 
-h1 {
+#contacth1 {
 
     position: relative;
     top: 50%;
-    left: 25%;
+    left: 10%;
 
 }
-
-
-    
